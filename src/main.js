@@ -303,7 +303,7 @@ document.querySelector('#app').innerHTML = `
 
       <button id="submitButton" type="button">Add to Output</button>
       <button id="clearButton" type="button" class="secondary-button" aria-label="Clear all output">
-        <img src="/trash-icon.svg" alt="Clear all output" />
+        <img src="trash-icon.svg" alt="Clear all output" />
       </button>
       <button id="copyButton" type="button" class="secondary-button">Copy Full Output</button>
     </form>
